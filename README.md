@@ -1,5 +1,5 @@
 mini-Routing
-============
+=============
 
 ##Objectives
 The purpose of this Mini Project is to get you used to structuring your Angular app and routing. These are two of the trickiest things to wrap your head around so if something doesn't make sense as you're going through, let us know and we'll come over to help you. 
